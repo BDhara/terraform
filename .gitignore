@@ -1,0 +1,9 @@
+/.terraform
+/.terraform.lock.hcl
+/copy_website.sh
+/id_rsa.pub
+/README.md
+/terraform.tfstate.backup
+/terraform_ec2_key
+/terraform_ec2_key.pub
+/TFM-keypair.pem
